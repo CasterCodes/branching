@@ -1,2 +1,2 @@
 const featureMessage = "Feature Final commit ";
-const featureTesting = "Feature";
+const featureTesting = "Conflict two";
