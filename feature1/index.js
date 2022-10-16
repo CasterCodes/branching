@@ -1,1 +1,1 @@
-const featureMessage = 'Feature commit 1'
+const featureMessage = "Feature commit 3";
